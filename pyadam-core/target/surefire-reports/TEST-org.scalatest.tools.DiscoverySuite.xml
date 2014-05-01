@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite 
+errors="0" failures="0" hostname="aruns-air.home" name="org.scalatest.tools.DiscoverySuite" tests="0" time="0.058" timestamp="2014-05-01T08:29:41">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment">
+    </property>
+    <property 
+    name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib">
+</property>
+    <property name="java.vm.version" value="24.0-b56"> </property>
+    <property name="gopherProxySet" value="false"> </property>
+    <property name="java.vm.vendor" value="Oracle Corporation"> </property>
+    <property name="java.vendor.url" value="http://java.oracle.com/">
+    </property>
+    <property name="path.separator" value=":"> </property>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM">
+    </property>
+    <property name="file.encoding.pkg" value="sun.io"> </property>
+    <property name="user.country" value="US"> </property>
+    <property name="sun.java.launcher" value="SUN_STANDARD"> </property>
+    <property name="sun.os.patch.level" value="unknown"> </property>
+    <property 
+    name="java.vm.specification.name" value="Java Virtual Machine Specification">
+</property>
+    <property 
+    name="user.dir" value="/Users/arahuja/Dropbox/src/pyadam/pyadam-core">
+</property>
+    <property name="java.runtime.version" value="1.7.0_40-b43"> </property>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment">
+    </property>
+    <property 
+    name="basedir" value="/Users/arahuja/Dropbox/src/pyadam/pyadam-core">
+</property>
+    <property 
+    name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/endorsed">
+</property>
+    <property name="os.arch" value="x86_64"> </property>
+    <property 
+    name="java.io.tmpdir" value="/var/folders/b1/jbv4n2f56mz8m3hxkdtc51cr0000gn/T/">
+</property>
+    <property name="line.separator" value=" "> </property>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation">
+    </property>
+    <property name="os.name" value="Mac OS X"> </property>
+    <property name="sun.jnu.encoding" value="UTF-8"> </property>
+    <property 
+    name="java.library.path" value="/Users/arahuja/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.">
+</property>
+    <property 
+    name="java.specification.name" value="Java Platform API Specification">
+</property>
+    <property name="java.class.version" value="51.0"> </property>
+    <property 
+    name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers">
+</property>
+    <property name="os.version" value="10.9.2"> </property>
+    <property 
+    name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16">
+</property>
+    <property name="user.home" value="/Users/arahuja"> </property>
+    <property name="user.timezone" value=""> </property>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob">
+    </property>
+    <property name="file.encoding" value="UTF-8"> </property>
+    <property name="java.specification.version" value="1.7"> </property>
+    <property name="user.name" value="arahuja"> </property>
+    <property 
+    name="java.class.path" value="/Users/arahuja/Dropbox/src/pyadam/pyadam-core/target/scala-2.10.3/test-classes:/Users/arahuja/Dropbox/src/pyadam/pyadam-core/target/scala-2.10.3/classes:/Users/arahuja/.m2/repository/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.jar:/Users/arahuja/.m2/repository/org/apache/hadoop/hadoop-client/2.2.0/hadoop-client-2.2.0.jar:/Users/arahuja/.m2/repository/org/apache/hadoop/hadoop-common/2.2.0/hadoop-common-2.2.0.jar:/Users/arahuja/.m2/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar:/Users/arahuja/.m2/repository/org/apache/commons/commons-math/2.1/commons-math-2.1.jar:/Users/arahuja/.m2/repository/xmlenc/xmlenc/0.52/xmlenc-0.52.jar:/Users/arahuja/.m2/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar:/Users/arahuja/.m2/repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar:/Users/arahuja/.m2/repository/commons-net/commons-net/3.1/commons-net-3.1.jar:/Users/arahuja/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar:/Users/arahuja/.m2/repository/commons-lang/commons-lang/2.5/commons-lang-2.5.jar:/Users/arahuja/.m2/repository/commons-configuration/commons-configuration/1.6/commons-configuration-1.6.jar:/Users/arahuja/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar:/Users/arahuja/.m2/repository/commons-digester/commons-digester/1.8/commons-digester-1.8.jar:/Users/arahuja/.m2/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar:/Users/arahuja/.m2/repository/commons-beanutils/commons-beanutils-core/1.8.0/commons-beanutils-core-1.8.0.jar:/Users/arahuja/.m2/repository/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar:/Users/arahuja/.m2/repository/org/apache/hadoop/hadoop-auth/2.2.0/hadoop-auth-2.2.0.jar:/Users/arahuja/.m2/repository/org/apache/hadoop/hadoop-hdfs/2.2.0/hadoop-hdfs-2.2.0.jar:/Users/arahuja/.m2/repository/org/mortbay/jetty/jetty-util/6.1.26/jetty-util-6.1.26.jar:/Users/arahuja/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-app/2.2.0/hadoop-mapreduce-client-app-2.2.0.jar:/Users/arahuja/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.jar:/Users/arahuja/.m2/repository/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0.jar:/Users/arahuja/.m2/repository/com/google/inject/guice/3.0/guice-3.0.jar:/Users/arahuja/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/arahuja/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/arahuja/.m2/repository/com/sun/jersey/jersey-test-framework/jersey-test-framework-grizzly2/1.9/jersey-test-framework-grizzly2-1.9.jar:/Users/arahuja/.m2/repository/com/sun/jersey/jersey-test-framework/jersey-test-framework-core/1.9/jersey-test-framework-core-1.9.jar:/Users/arahuja/.m2/repository/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar:/Users/arahuja/.m2/repository/com/sun/jersey/jersey-client/1.9/jersey-client-1.9.jar:/Users/arahuja/.m2/repository/com/sun/jersey/jersey-grizzly2/1.9/jersey-grizzly2-1.9.jar:/Users/arahuja/.m2/repository/org/glassfish/grizzly/grizzly-http/2.1.2/grizzly-http-2.1.2.jar:/Users/arahuja/.m2/repository/org/glassfish/grizzly/grizzly-framework/2.1.2/grizzly-framework-2.1.2.jar:/Users/arahuja/.m2/repository/org/glassfish/gmbal/gmbal-api-only/3.0.0-b023/gmbal-api-only-3.0.0-b023.jar:/Users/arahuja/.m2/repository/org/glassfish/external/management-api/3.0.0-b012/management-api-3.0.0-b012.jar:/Users/arahuja/.m2/repository/org/glassfish/grizzly/grizzly-http-server/2.1.2/grizzly-http-server-2.1.2.jar:/Users/arahuja/.m2/repository/org/glassfish/grizzly/grizzly-rcm/2.1.2/grizzly-rcm-2.1.2.jar:/Users/arahuja/.m2/repository/org/glassfish/grizzly/grizzly-http-servlet/2.1.2/grizzly-http-servlet-2.1.2.jar:/Users/arahuja/.m2/repository/org/glassfish/javax.servlet/3.1/javax.servlet-3.1.jar:/Users/arahuja/.m2/repository/com/sun/jersey/jersey-server/1.9/jersey-server-1.9.jar:/Users/arahuja/.m2/repository/com/sun/jersey/jersey-core/1.9/jersey-core-1.9.jar:/Users/arahuja/.m2/repository/com/sun/jersey/jersey-json/1.9/jersey-json-1.9.jar:/Users/arahuja/.m2/repository/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar:/Users/arahuja/.m2/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar:/Users/arahuja/.m2/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar:/Users/arahuja/.m2/repository/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar:/Users/arahuja/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar:/Users/arahuja/.m2/repository/com/sun/jersey/contribs/jersey-guice/1.9/jersey-guice-1.9.jar:/Users/arahuja/.m2/repository/org/apache/hadoop/hadoop-yarn-server-common/2.2.0/hadoop-yarn-server-common-2.2.0.jar:/Users/arahuja/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.jar:/Users/arahuja/.m2/repository/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.jar:/Users/arahuja/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.jar:/Users/arahuja/.m2/repository/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.jar:/Users/arahuja/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.2.0/hadoop-mapreduce-client-jobclient-2.2.0.jar:/Users/arahuja/.m2/repository/org/apache/hadoop/hadoop-annotations/2.2.0/hadoop-annotations-2.2.0.jar:/Users/arahuja/.m2/repository/org/bdgenomics/adam/adam-core/0.9.1-SNAPSHOT/adam-core-0.9.1-SNAPSHOT.jar:/Users/arahuja/.m2/repository/commons-io/commons-io/1.3.2/commons-io-1.3.2.jar:/Users/arahuja/.m2/repository/fi/tkk/ics/hadoop/bam/hadoop-bam/6.2/hadoop-bam-6.2.jar:/Users/arahuja/.m2/repository/picard/picard/1.107/picard-1.107.jar:/Users/arahuja/.m2/repository/cofoja/cofoja/1.0/cofoja-1.0.jar:/Users/arahuja/.m2/repository/tribble/tribble/1.107/tribble-1.107.jar:/Users/arahuja/.m2/repository/variant/variant/1.107/variant-1.107.jar:/Users/arahuja/.m2/repository/samtools/samtools/1.107/samtools-1.107.jar:/Users/arahuja/.m2/repository/org/bdgenomics/adam/adam-format/0.9.1-SNAPSHOT/adam-format-0.9.1-SNAPSHOT.jar:/Users/arahuja/.m2/repository/org/apache/spark/spark-core_2.10/0.9.1/spark-core_2.10-0.9.1.jar:/Users/arahuja/.m2/repository/net/java/dev/jets3t/jets3t/0.7.1/jets3t-0.7.1.jar:/Users/arahuja/.m2/repository/org/apache/avro/avro-ipc/1.7.4/avro-ipc-1.7.4.jar:/Users/arahuja/.m2/repository/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26.jar:/Users/arahuja/.m2/repository/org/apache/velocity/velocity/1.7/velocity-1.7.jar:/Users/arahuja/.m2/repository/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211.jar:/Users/arahuja/.m2/repository/org/apache/zookeeper/zookeeper/3.4.5/zookeeper-3.4.5.jar:/Users/arahuja/.m2/repository/jline/jline/0.9.94/jline-0.9.94.jar:/Users/arahuja/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/arahuja/.m2/repository/org/eclipse/jetty/jetty-server/7.6.8.v20121106/jetty-server-7.6.8.v20121106.jar:/Users/arahuja/.m2/repository/org/eclipse/jetty/orbit/javax.servlet/2.5.0.v201103041518/javax.servlet-2.5.0.v201103041518.jar:/Users/arahuja/.m2/repository/org/eclipse/jetty/jetty-continuation/7.6.8.v20121106/jetty-continuation-7.6.8.v20121106.jar:/Users/arahuja/.m2/repository/org/eclipse/jetty/jetty-http/7.6.8.v20121106/jetty-http-7.6.8.v20121106.jar:/Users/arahuja/.m2/repository/org/eclipse/jetty/jetty-io/7.6.8.v20121106/jetty-io-7.6.8.v20121106.jar:/Users/arahuja/.m2/repository/org/eclipse/jetty/jetty-util/7.6.8.v20121106/jetty-util-7.6.8.v20121106.jar:/Users/arahuja/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar:/Users/arahuja/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/arahuja/.m2/repository/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.jar:/Users/arahuja/.m2/repository/com/ning/compress-lzf/1.0.0/compress-lzf-1.0.0.jar:/Users/arahuja/.m2/repository/org/xerial/snappy/snappy-java/1.0.5/snappy-java-1.0.5.jar:/Users/arahuja/.m2/repository/com/twitter/chill_2.10/0.3.1/chill_2.10-0.3.1.jar:/Users/arahuja/.m2/repository/com/esotericsoftware/kryo/kryo/2.21/kryo-2.21.jar:/Users/arahuja/.m2/repository/com/esotericsoftware/reflectasm/reflectasm/1.07/reflectasm-1.07-shaded.jar:/Users/arahuja/.m2/repository/org/ow2/asm/asm/4.0/asm-4.0.jar:/Users/arahuja/.m2/repository/com/esotericsoftware/minlog/minlog/1.2/minlog-1.2.jar:/Users/arahuja/.m2/repository/org/objenesis/objenesis/1.2/objenesis-1.2.jar:/Users/arahuja/.m2/repository/org/ow2/asm/asm-commons/4.0/asm-commons-4.0.jar:/Users/arahuja/.m2/repository/org/ow2/asm/asm-tree/4.0/asm-tree-4.0.jar:/Users/arahuja/.m2/repository/com/twitter/chill-java/0.3.1/chill-java-0.3.1.jar:/Users/arahuja/.m2/repository/org/spark-project/akka/akka-remote_2.10/2.2.3-shaded-protobuf/akka-remote_2.10-2.2.3-shaded-protobuf.jar:/Users/arahuja/.m2/repository/org/spark-project/akka/akka-actor_2.10/2.2.3-shaded-protobuf/akka-actor_2.10-2.2.3-shaded-protobuf.jar:/Users/arahuja/.m2/repository/com/typesafe/config/1.0.2/config-1.0.2.jar:/Users/arahuja/.m2/repository/io/netty/netty/3.6.6.Final/netty-3.6.6.Final.jar:/Users/arahuja/.m2/repository/org/spark-project/protobuf/protobuf-java/2.4.1-shaded/protobuf-java-2.4.1-shaded.jar:/Users/arahuja/.m2/repository/org/uncommons/maths/uncommons-maths/1.2.2a/uncommons-maths-1.2.2a.jar:/Users/arahuja/.m2/repository/org/spark-project/akka/akka-slf4j_2.10/2.2.3-shaded-protobuf/akka-slf4j_2.10-2.2.3-shaded-protobuf.jar:/Users/arahuja/.m2/repository/net/liftweb/lift-json_2.10/2.5.1/lift-json_2.10-2.5.1.jar:/Users/arahuja/.m2/repository/it/unimi/dsi/fastutil/6.4.4/fastutil-6.4.4.jar:/Users/arahuja/.m2/repository/colt/colt/1.2.0/colt-1.2.0.jar:/Users/arahuja/.m2/repository/concurrent/concurrent/1.3.4/concurrent-1.3.4.jar:/Users/arahuja/.m2/repository/org/apache/mesos/mesos/0.13.0/mesos-0.13.0.jar:/Users/arahuja/.m2/repository/io/netty/netty-all/4.0.13.Final/netty-all-4.0.13.Final.jar:/Users/arahuja/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/Users/arahuja/.m2/repository/com/clearspring/analytics/stream/2.4.0/stream-2.4.0.jar:/Users/arahuja/.m2/repository/com/codahale/metrics/metrics-core/3.0.0/metrics-core-3.0.0.jar:/Users/arahuja/.m2/repository/com/codahale/metrics/metrics-jvm/3.0.0/metrics-jvm-3.0.0.jar:/Users/arahuja/.m2/repository/com/codahale/metrics/metrics-json/3.0.0/metrics-json-3.0.0.jar:/Users/arahuja/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.2.2/jackson-databind-2.2.2.jar:/Users/arahuja/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.2.2/jackson-annotations-2.2.2.jar:/Users/arahuja/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.2.2/jackson-core-2.2.2.jar:/Users/arahuja/.m2/repository/com/codahale/metrics/metrics-graphite/3.0.0/metrics-graphite-3.0.0.jar:/Users/arahuja/.m2/repository/org/apache/avro/avro/1.7.4/avro-1.7.4.jar:/Users/arahuja/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.8.8/jackson-core-asl-1.8.8.jar:/Users/arahuja/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.8.8/jackson-mapper-asl-1.8.8.jar:/Users/arahuja/.m2/repository/com/thoughtworks/paranamer/paranamer/2.3/paranamer-2.3.jar:/Users/arahuja/.m2/repository/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1.jar:/Users/arahuja/.m2/repository/org/tukaani/xz/1.0/xz-1.0.jar:/Users/arahuja/.m2/repository/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar:/Users/arahuja/.m2/repository/com/twitter/parquet-avro/1.3.2/parquet-avro-1.3.2.jar:/Users/arahuja/.m2/repository/com/twitter/parquet-column/1.3.2/parquet-column-1.3.2.jar:/Users/arahuja/.m2/repository/com/twitter/parquet-common/1.3.2/parquet-common-1.3.2.jar:/Users/arahuja/.m2/repository/com/twitter/parquet-encoding/1.3.2/parquet-encoding-1.3.2.jar:/Users/arahuja/.m2/repository/com/twitter/parquet-generator/1.3.2/parquet-generator-1.3.2.jar:/Users/arahuja/.m2/repository/com/twitter/parquet-hadoop/1.3.2/parquet-hadoop-1.3.2.jar:/Users/arahuja/.m2/repository/com/twitter/parquet-jackson/1.3.2/parquet-jackson-1.3.2.jar:/Users/arahuja/.m2/repository/com/twitter/parquet-format/2.0.0/parquet-format-2.0.0.jar:/Users/arahuja/.m2/repository/org/scalatest/scalatest_2.10/1.9.2/scalatest_2.10-1.9.2.jar">
+</property>
+    <property name="java.vm.specification.version" value="1.7"> </property>
+    <property name="sun.arch.data.model" value="64"> </property>
+    <property 
+    name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre">
+</property>
+    <property 
+    name="sun.java.command" value="org.scalatest.tools.Runner -R /Users/arahuja/Dropbox/src/pyadam/pyadam-core/target/scala-2.10.3/classes /Users/arahuja/Dropbox/src/pyadam/pyadam-core/target/scala-2.10.3/test-classes -o -u /Users/arahuja/Dropbox/src/pyadam/pyadam-core/target/surefire-reports/.">
+</property>
+    <property name="java.specification.vendor" value="Oracle Corporation">
+    </property>
+    <property name="user.language" value="en"> </property>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit">
+    </property>
+    <property name="java.vm.info" value="mixed mode"> </property>
+    <property name="java.version" value="1.7.0_40"> </property>
+    <property 
+    name="java.ext.dirs" value="/Users/arahuja/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java">
+</property>
+    <property 
+    name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/lib/JObjC.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/classes">
+</property>
+    <property name="java.vendor" value="Oracle Corporation"> </property>
+    <property name="file.separator" value="/"> </property>
+    <property 
+    name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/">
+</property>
+    <property name="sun.io.serialization.extendedDebugInfo" value="true">
+    </property>
+    <property name="sun.cpu.endian" value="little"> </property>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"> </property>
+    <property 
+    name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16">
+</property>
+    <property 
+    name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16">
+</property>
+    <property name="sun.cpu.isalist" value=""> </property>
+  </properties>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
