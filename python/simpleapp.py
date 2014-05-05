@@ -1,8 +1,4 @@
-import optparse
-
 from pyspark import SparkConf, SparkContext
-import pyadam
-from py4j.java_collections import ListConverter
 from py4j.java_gateway import java_import
 
 from java_gateway_contrib import launch_gateway
