@@ -2,6 +2,9 @@
 
 This is a wrapper to load Parquet data in PySpark
 
+## Build
+https://travis-ci.org/arahuja/pyadam.svg?branch=master
+
 ## FAQ
 
 ### How does this work?
