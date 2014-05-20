@@ -3,8 +3,7 @@
 This is a wrapper to load Parquet data in PySpark
 
 ## Build
-https://travis-ci.org/arahuja/pyadam.svg?branch=master
-
+[![Build Status](https://travis-ci.org/arahuja/pyadam.svg?branch=master)](https://travis-ci.org/arahuja/pyadam)
 ## FAQ
 
 ### How does this work?
