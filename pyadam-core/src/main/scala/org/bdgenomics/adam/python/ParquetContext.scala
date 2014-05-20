@@ -14,11 +14,7 @@ import org.apache.spark.rdd.RDD
 class ParquetContext(sc: SparkContext) {
 
   def parquetFileAsJSON(path: String): JavaRDD[String] = {
-    val job = Job.getInstance(sc.hadoopConfiguration)
-    ParquetInputFormat.setReadSupportClass(job, classOf[AvroReadSupport[GenericRecord]])
-    sc.newAPIHadoopFile(path, classOf[ParquetInputFormat[GenericRecord]], classOf[Void], classOf[GenericRecord],
-      job.getConfiguration).map(_._2.toString())
-  }
+    val job = Job.getInsta
 
   def parquetFileAsAvro[T <: SpecificRecord: Manifest](path: String): JavaRDD[T] = {
     val job = Job.getInstance(sc.hadoopConfiguration)
